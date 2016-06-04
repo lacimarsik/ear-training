@@ -3,3 +3,4 @@
 .project
 .settings
 ear-training.iml
+bin/*
