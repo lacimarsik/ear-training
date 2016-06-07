@@ -3,7 +3,7 @@ Simple ear training Java application for music students
 
 ## Installation
 * You need to have [Java](https://www.java.com/en/download/) running on your computer
-* Download and open the `ear-training.jar` located in `out` folder, using your Java Virtual Machine (or invoke `java -jar out/ear-training.jar in command-line`)
+* Download and open the `ear-training.jar` located in `out` folder, using your Java Virtual Machine (or invoke `java -jar out/ear-training.jar` in command-line)
 
 ## How to train your ears with ear-training?
 * You can achieve 3 levels of learning, start by the simplest harmonies in level 1, finish by level 3 for professional musicians and composers.
